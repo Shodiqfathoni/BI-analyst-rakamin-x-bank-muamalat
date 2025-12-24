@@ -124,11 +124,10 @@ Project ini menunjukkan proses lengkap Business Intelligence mulai dari data mod
 │   ├── customers.csv
 │   ├── orders.csv
 │   ├── products.csv
+│   ├── master_sales2.csv
 │   └── productcategory.csv
-├── sql/
-│   ├── create_pk_fk.sql
-│   └── master_table.sql
-├── dashboard/
-│   └── looker_studio_link.txt
+├── image/
+│   ├── dashboard.jpg
+│   └── erd.png
 └── README.md
 ```
