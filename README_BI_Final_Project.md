@@ -100,7 +100,7 @@ Output tabel master digunakan sebagai sumber data utama untuk visualisasi.
 
 ## 📈 Data Visualization
 Visualisasi dilakukan menggunakan Looker Studio untuk menampilkan insight penjualan secara interaktif.
-https://github.com/Shodiqfathoni/BI-analyst-rakamin-x-bank-muamalat/blob/main/image/dashboard.jpg
+![alt text](https://github.com/Shodiqfathoni/BI-analyst-rakamin-x-bank-muamalat/blob/main/image/dashboard.jpg?raw=true)
 ### Dashboard Insight:
 - Total Sales
 - Sales Trend Over Time
