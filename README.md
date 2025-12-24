@@ -96,6 +96,7 @@ ORDER BY o.Date ASC;
 ```
 
 Output tabel master digunakan sebagai sumber data utama untuk visualisasi.
+![alt text](https://github.com/Shodiqfathoni/BI-analyst-rakamin-x-bank-muamalat/blob/main/image/mastertable.jpg?raw=true)
 
 ---
 
