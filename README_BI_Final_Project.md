@@ -68,6 +68,7 @@ ADD CONSTRAINT fk_products_category
 FOREIGN KEY (Category)
 REFERENCES productcategory(CategoryID);
 ```
+![alt text](https://github.com/Shodiqfathoni/BI-analyst-rakamin-x-bank-muamalat/blob/main/image/erdrev.png?raw=true)
 
 ---
 
